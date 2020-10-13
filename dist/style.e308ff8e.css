@@ -3,5 +3,33 @@
   margin: 0 auto;
 }
 
+.button {
+  width: 200px;
+  height: 60px;
+  border: 1.4px solid #458ff6;
+  box-sizing: border-box;
+  border-radius: 55px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 60px;
+  color: #458ff6;
+  mix-blend-mode: normal;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+.content {
+  max-width: 450px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+  mix-blend-mode: normal;
+}
+
 
 /*# sourceMappingURL=/style.e308ff8e.css.map */

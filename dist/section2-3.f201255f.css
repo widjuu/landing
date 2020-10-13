@@ -1,0 +1,45 @@
+.section2 {
+  margin: 0 auto;
+  margin-top: 220px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 1273px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.learnBox {
+  display: flex;
+  flex-direction: column;
+  max-width: 486px;
+}
+
+.learnBoxTitle {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+  mix-blend-mode: normal;
+}
+
+.apps {
+  max-width: 420px;
+  display: flex;
+  flex-direction: column;
+}
+
+.appsTitle {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  color: #000000;
+  mix-blend-mode: normal;
+}
+
+
+/*# sourceMappingURL=/section2-3.f201255f.css.map */
