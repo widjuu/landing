@@ -15,16 +15,6 @@
   max-width: 486px;
 }
 
-.learnBoxTitle {
-  font-family: Mulish;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 36px;
-  line-height: 56px;
-  color: #000000;
-  mix-blend-mode: normal;
-}
-
 .apps {
   max-width: 420px;
   display: flex;

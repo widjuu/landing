@@ -31,5 +31,15 @@
   mix-blend-mode: normal;
 }
 
+.sectionTitle {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+  mix-blend-mode: normal;
+}
+
 
 /*# sourceMappingURL=/style.e308ff8e.css.map */
