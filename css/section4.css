@@ -2,13 +2,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 auto;
   margin-top: 251px;
 }
 .customerBox {
   display: flex;
   flex-direction: column;
-  align-items: center;
   background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
   border-radius: 24px;
   width: 1120px;
@@ -21,7 +19,14 @@
   justify-content: center;
 }
 
+.section4Header {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+}
+
 .section4Title {
+  justify-self: flex-end;
   font-family: Mulish;
   font-style: normal;
   font-weight: bold;
@@ -96,7 +101,7 @@
 }
 
 .section4El {
-  align-self: flex-end;
-  margin-right: -47.58px;
   margin-top: -15px;
+  margin-right: -47.58px;
+  margin-left: 213px;
 }

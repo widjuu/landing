@@ -1,6 +1,6 @@
 .section2 {
   margin: 0 auto;
-  margin-top: 220px;
+  margin-top: 126px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -29,6 +29,12 @@
   line-height: 48px;
   color: #000000;
   mix-blend-mode: normal;
+}
+
+.section2El {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: -45.58px;
 }
 
 
