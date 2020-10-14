@@ -66,6 +66,8 @@
   line-height: 23px;
   color: #1f1534;
   opacity: 0.5;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .headerContent {

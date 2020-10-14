@@ -22,7 +22,6 @@
 }
 
 .section4Title {
-  padding-top: 64px;
   font-family: Mulish;
   font-style: normal;
   font-weight: bold;
@@ -94,6 +93,12 @@
 
 .arrow {
   cursor: pointer;
+}
+
+.section4El {
+  align-self: flex-end;
+  margin-right: -47.58px;
+  margin-top: -15px;
 }
 
 

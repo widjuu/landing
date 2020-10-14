@@ -63,3 +63,9 @@
   mix-blend-mode: normal;
   cursor: pointer;
 }
+
+.section5El {
+  align-self: flex-start;
+  margin-left: 191px;
+  margin-bottom: -73px;
+}
