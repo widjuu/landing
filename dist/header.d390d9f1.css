@@ -70,15 +70,21 @@
   cursor: pointer;
 }
 
+.headerEl {
+  position: absolute;
+  margin-left: -50px;
+  margin-top: 160px;
+}
+
 .headerContent {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: center;
   margin-left: 190px;
 }
 
 .headerText {
+  margin-right: 109px;
   width: 445px;
   height: 338px;
 }
