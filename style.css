@@ -42,3 +42,7 @@
   color: #000000;
   mix-blend-mode: normal;
 }
+
+a {
+  text-decoration: none;
+}
