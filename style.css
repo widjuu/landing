@@ -399,3 +399,10 @@ template {
 a {
   text-decoration: none;
 }
+
+.black-line {
+  width: 56px;
+  height: 2px;
+  background: #000000;
+  border-radius: 5px;
+}

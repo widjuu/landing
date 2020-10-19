@@ -1,4 +1,4 @@
-.headerLine {
+.header-line {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -20,7 +20,6 @@
   font-size: 26px;
   line-height: 33px;
   color: #ffffff;
-  mix-blend-mode: normal;
   width: 41px;
   height: 41px;
   border-radius: 50%;
@@ -36,7 +35,6 @@
   font-size: 24px;
   line-height: 30px;
   color: #233348;
-  mix-blend-mode: normal;
   margin-left: 12px;
 }
 
@@ -50,14 +48,14 @@
   text-decoration: none;
 }
 
-.topNav {
+.top-nav {
   display: flex;
   flex-direction: row;
   align-items: center;
   max-width: 545px;
 }
 
-.topNavText {
+.top-nav-links {
   padding-left: 40px;
   font-family: Mulish;
   font-style: normal;
@@ -70,46 +68,44 @@
   cursor: pointer;
 }
 
-.headerEl {
+.header-dots {
   position: absolute;
   margin-left: -50px;
   margin-top: 160px;
 }
 
-.headerContent {
+.header-content-box {
   display: flex;
   flex-direction: row;
   align-items: center;
   margin-left: 190px;
 }
 
-.headerText {
+.header-text-box {
   margin-right: 109px;
   width: 445px;
   height: 338px;
 }
 
-.headerText1 {
+.header-title {
   font-family: Mulish;
   font-style: normal;
   font-weight: bold;
   font-size: 48px;
   line-height: 56px;
   color: #000000;
-  mix-blend-mode: normal;
 }
 
-.headerText2 {
+.header-text {
   font-family: Mulish;
   font-style: normal;
   font-weight: 300;
   font-size: 21px;
   line-height: 32px;
   color: #7d7987;
-  mix-blend-mode: normal;
 }
 
-.headerTextButton {
+.header-button {
   width: 200px;
   height: 56px;
   background: #458ff6;
@@ -121,7 +117,6 @@
   font-size: 18px;
   line-height: 60px;
   color: #ffffff;
-  mix-blend-mode: normal;
   display: flex;
   align-items: center;
   justify-content: space-around;
