@@ -4,7 +4,7 @@
   align-items: center;
   margin-top: 251px;
 }
-.customerBox {
+.customer-box {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -14,20 +14,20 @@
   height: 425px;
 }
 
-.customerComment {
+.customer-comment {
   display: flex;
   flex-direction: row;
   justify-content: center;
   margin-top: 66px;
 }
 
-.section4Header {
+.section-review-header {
   display: flex;
   flex-direction: row;
   align-self: flex-end;
 }
 
-.section4Title {
+.section-review-title {
   justify-self: flex-end;
   font-family: Mulish;
   font-style: normal;
@@ -37,13 +37,13 @@
   color: #ffffff;
 }
 
-.section4Name {
+.customer-name-box {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
-.section4Text {
+.section-review-text {
   margin-left: 110px;
   width: 420px;
   font-family: Mulish;
@@ -54,7 +54,7 @@
   color: rgba(255, 255, 255, 0.9);
 }
 
-.customerName {
+.customer-name {
   font-family: Mulish;
   font-style: normal;
   font-weight: bold;
@@ -65,7 +65,7 @@
   margin-block-end: -15px;
 }
 
-.customerAbout {
+.customer-about {
   font-family: Mulish;
   font-style: normal;
   font-weight: normal;
@@ -82,7 +82,7 @@
   height: 141px;
 }
 
-.tabGroup {
+.switch {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -102,7 +102,7 @@
   cursor: pointer;
 }
 
-.section4El {
+.section-review-dots {
   margin-top: -15px;
   margin-right: -47.58px;
   margin-left: 213px;

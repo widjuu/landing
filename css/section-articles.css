@@ -1,8 +1,7 @@
-.section5 {
+.section-articles {
   display: flex;
   flex-direction: column;
   align-items: center;
-
   margin-top: 224px;
   max-width: 1785.11px;
 }
@@ -25,7 +24,7 @@
   border-radius: 20px;
 }
 
-.articleTitle {
+.article-title {
   margin-top: 24px;
   margin-bottom: 12px;
   padding-left: 33px;
@@ -36,10 +35,9 @@
   font-size: 21px;
   line-height: 32px;
   color: #000000;
-  mix-blend-mode: normal;
 }
 
-.articleText {
+.article-text {
   padding-left: 33px;
   padding-right: 51px;
   font-family: Mulish;
@@ -48,10 +46,9 @@
   font-size: 16px;
   line-height: 28px;
   color: #7d7987;
-  mix-blend-mode: normal;
 }
 
-.moreButton {
+.more-button {
   padding-left: 33px;
   padding-bottom: 35px;
   font-family: Mulish;
@@ -60,11 +57,10 @@
   font-size: 17px;
   line-height: 28px;
   color: #4089ed;
-  mix-blend-mode: normal;
   cursor: pointer;
 }
 
-.section5El {
+.section-articles-dots {
   align-self: flex-start;
   margin-left: 191px;
   margin-bottom: -73px;

@@ -1,4 +1,4 @@
-.section_apps {
+.section-apps {
   margin: 0 auto;
   margin-top: 126px;
   display: flex;
@@ -23,7 +23,7 @@
   align-items: flex-start;
 }
 
-.appsTitle {
+.apps-title {
   max-width: 254px;
   font-family: Mulish;
   font-style: normal;
@@ -31,10 +31,9 @@
   font-size: 36px;
   line-height: 48px;
   color: #000000;
-  mix-blend-mode: normal;
 }
 
-.section2El {
+.section-dots {
   display: flex;
   justify-content: flex-end;
   margin-right: -45.58px;

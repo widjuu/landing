@@ -8,12 +8,12 @@
   background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
 }
 
-.footerBox {
+.footer-box {
   display: flex;
   flex-direction: column;
 }
 
-.footerLogo {
+.footer-logo {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -47,7 +47,7 @@
   mix-blend-mode: normal;
 }
 
-.footerText1 {
+.footer-about {
   max-width: 391px;
   font-family: Mulish;
   font-style: normal;
@@ -55,42 +55,37 @@
   font-size: 18px;
   line-height: 28px;
   color: #ffffff;
-  mix-blend-mode: normal;
 }
 
-.footerText2 {
+.footer-copiryght {
   font-family: Mulish;
   font-style: normal;
   font-weight: 300;
   font-size: 16px;
   line-height: 28px;
   color: #ffffff;
-  mix-blend-mode: normal;
 }
 
-.footerBoxTitle {
+.footer-box-title {
   font-family: Mulish;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
   line-height: 60px;
   color: #ffffff;
-  mix-blend-mode: normal;
 }
 
-.footerA {
+.footer-link {
   cursor: pointer;
-  text-decoration: none;
   font-family: Mulish;
   font-style: normal;
   font-weight: 300;
   font-size: 18px;
   line-height: 38px;
   color: #ffffff;
-  mix-blend-mode: normal;
 }
 
-.footerEl {
+.footer-dots {
   display: flex;
   justify-content: flex-end;
   margin-right: 91.42px;
