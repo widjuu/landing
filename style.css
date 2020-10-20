@@ -406,3 +406,24 @@ a {
   background: #000000;
   border-radius: 5px;
 }
+
+:root {
+  --secondary-text: #7d7987;
+  --footer-text: #ffffff;
+}
+
+.dot {
+  width: 10.46px;
+  height: 10.42px;
+  border-radius: 50%;
+  background: linear-gradient(338.5deg, #ffffff -951.03%, #ffffff 493.02%);
+  opacity: 0.26;
+  margin-top: 15.69px;
+  margin-right: 19.82px;
+}
+
+.dot-box {
+  /* position: absolute;*/
+  display: flex;
+  flex-direction: row;
+}

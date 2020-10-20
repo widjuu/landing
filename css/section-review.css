@@ -34,7 +34,7 @@
   font-weight: bold;
   font-size: 36px;
   line-height: 48px;
-  color: #ffffff;
+  color: white;
 }
 
 .customer-name-box {
@@ -60,7 +60,7 @@
   font-weight: bold;
   font-size: 22px;
   line-height: 48px;
-  color: #ffffff;
+  color: white;
   margin-block-start: 0;
   margin-block-end: -15px;
 }
@@ -111,6 +111,6 @@
 .white-line {
   width: 56px;
   height: 2px;
-  background: #ffffff;
+  background: white;
   border-radius: 6px;
 }
